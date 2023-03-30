@@ -1,0 +1,69 @@
+.menu ul{
+    list-style-type: none ;
+}
+
+.menu ul li{
+    display: inline;
+    padding: 1%;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: #515151;
+}
+
+.menu ul li a:hover{
+    color: black;
+}
+
+.menu{
+    text-align: center;
+}
+
+.tbl-full{
+    width: 100%;
+}
+
+.tbl-30{
+    width: 30%;
+}
+
+table tr th{
+    border-bottom: 1px solid black;
+    text-align: left;
+    padding: 1%;
+}
+
+table tr td{
+    padding: 1%;  
+}
+
+.btn-primary{
+    background-color: #515151;
+    color: white;
+    padding: 3px;
+    border-radius: 3px;
+
+}
+
+ a{
+    text-decoration: none;
+}
+
+
+/* css for login */
+
+.login{
+    border: 1px solid #3e3e3e;
+    width: 20%;
+    padding: 2%;
+    margin: 10% auto;
+    text-align: center;
+}
+
+.error{
+    color: red;
+}
+.done{
+    color: green;
+}
